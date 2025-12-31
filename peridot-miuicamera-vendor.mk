@@ -11,4 +11,5 @@ PRODUCT_PACKAGES += \
     libgui-xiaomi \
     libmicampostproc_client \
     vendor.xiaomi.hardware.campostproc@1.0_system \
-    MiuiCamera
+    MiuiCamera \
+    scanner
