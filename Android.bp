@@ -97,7 +97,7 @@ cc_prebuilt_library_shared {
                 "libvndksupport",
                 "libgralloctypes",
                 "android.hardware.graphics.mapper@4.0",
-                "android.hardware.graphics.common-V7-ndk",
+                "android.hardware.graphics.common-V5-ndk",
                 "android.hardware.graphics.bufferqueue@1.0",
                 "android.hardware.graphics.bufferqueue@2.0",
                 "android.hardware.graphics.common@1.1",
