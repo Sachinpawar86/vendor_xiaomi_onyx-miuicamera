@@ -3,7 +3,7 @@
 #
 
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/xiaomi/peridot-miuicamera
+    vendor/xiaomi/onyx-miuicamera
 
 PRODUCT_PACKAGES += \
     libcamera_algoup_jni.xiaomi \
