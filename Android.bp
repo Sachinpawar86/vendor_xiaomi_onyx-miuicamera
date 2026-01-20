@@ -94,6 +94,7 @@ cc_prebuilt_library_shared {
                 "proprietary/system/lib64/libgui-xiaomi.so",
             ],
             shared_libs: [
+                "libbinder_shim",
                 "libvndksupport",
                 "libgralloctypes",
                 "android.hardware.graphics.mapper@4.0",
